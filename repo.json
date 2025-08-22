@@ -17,10 +17,11 @@
     "Punchline": "Let others see you as you see yourself.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadLinkInstall": "https://cf.maresynchronos.com/release/0.11.22.zip",
-    "DownloadLinkTesting": "https://cf.maresynchronos.com/release/0.11.22.zip",
-    "DownloadLinkUpdate": "https://cf.maresynchronos.com/update/0.11.22.zip"
+    "DownloadLinkInstall": "https://github.com/kabojnk/client/releases/download/0.11.23/0.11.23.zip",
+    "DownloadLinkTesting": "https://github.com/kabojnk/client/releases/download/0.11.23/0.11.23.zip",
+    "DownloadLinkUpdate": "https://github.com/kabojnk/client/releases/download/0.11.23/0.11.23.zip"
   }
 
 ]
+
 
